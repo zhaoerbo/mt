@@ -64,10 +64,13 @@ html {
 }
 .main .imm {
   display: block;
+  width: 100%;
+  height: auto;
   margin-left: 27px;
   margin-right: 27px;
 }
 .main .imm img {
+  display: block;
   width: 100%;
   height: auto;
 }
